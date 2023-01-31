@@ -1,0 +1,99 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.home{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background: rgba(20, 20, 20, 0.61);
+
+}    
+
+.tema_googla{
+    background: black;
+    border-radius: 10px;
+    width: 530px;
+    height: 580px;
+   
+}
+
+.google{
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    outline: 20px;
+    margin-top: 40px;
+    margin-bottom: 12px;
+}
+
+.chrome{
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+.speech{
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.email{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 350px;
+    padding: 15px;
+    outline: none;
+    border-radius: 10px;
+    margin-left: 85px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+} 
+
+.next{
+    width: 110px;
+    height: 45px;
+    background: rgb(31, 31, 146);
+    color: white;
+    margin-left: 160px;
+   
+    border-radius: 8px;
+    
+}
+
+.word{
+    margin-top: 50px;
+    color: white;
+}
+
+.adres{
+    color: rgb(104, 104, 211);
+    margin-left: 90px;
+    cursor: context-menu;
+  
+    
+}
+
+.word{
+    margin-left: 90px;
+    margin-bottom: 40px;
+}
+
+.l{
+    color: rgb(104, 104, 211);
+    cursor: context-menu;
+}
+
+.akk{
+    color: rgb(104, 104, 211);
+    margin-left: 90px;
+    margin-top: 40px;
+}
